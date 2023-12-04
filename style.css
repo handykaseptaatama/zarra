@@ -1,0 +1,24 @@
+.body {
+  min-height: 4000px;
+}
+
+.banner {
+  background: url('img/bruno\ mars.jpg') no-repeat center center;
+  color: aliceblue;
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 20%;
+}
+
+.album h2 {
+  padding: 2rem;
+}
+
+.album img {
+  width: 600px;
+  height: 330px;
+}
+
+.music video {
+  justify-content: center;
+}
